@@ -29,7 +29,8 @@ The final Gold-layer data is used to generate insights such as:
 
 ## 📜 License
 
-This project is licensed under the [MIT License] (License).
+This project is licensed under the [MIT License](https://github.com/Pramod20804/sql-warehouse-project/commit/4b82b6b33538ed1e744193ff4e813ae8f9731c55#diff-c693279643b8cd5d248172d9c22cb7cf4ed163a3c98c8a3f69c2717edd3eacb7).
+
 
 ## 👨‍💻 About Me
 
