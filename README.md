@@ -1,6 +1,7 @@
 # 🚀 Welcome to the Modern Data Warehouse Project
 
-Welcome to my Data Warehouse project! This repository showcases a practical implementation of a modern data architecture using the **Bronze-Silver-Gold layered approach**, followed by **ETL, data modeling, and analytics**. This project is designed to demonstrate real-world data engineering concepts in a clean and scalable manner.
+Welcome to our Data Warehouse project!
+This repository showcases a practical implementation of a modern data architecture using the Bronze‑Silver‑Gold layered approach, followed by ETL, data modeling, and analytics. This project was collaboratively built by me and my friend to demonstrate real‑world data engineering concepts in a clean and scalable manner.
 
 ---
 
